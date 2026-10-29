@@ -1,6 +1,6 @@
 ---
 name: clear-writing
-description: 사용자에게 보여 주는 답변 작성과 문서 작성 작업에서 사용한다.
+description: Use when writing user-facing responses or documents.
 ---
 
 ## 용어와 표현
